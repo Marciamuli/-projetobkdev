@@ -1,0 +1,33 @@
+/*
+    
+     Cascading Style Sheets(Folha de Estilos em Cascata)
+
+     elemento{
+         corFundo: vermelha;
+         corFonte: branca;
+         largura: 100px
+     }
+     
+     1) SELETOR DE ELEMENTO
+     2) REGRA CSS
+     3) PROPRIEDADE
+     4) VALOR
+*****
+
+SELETORES
+- NOME
+- CLASSE
+- ID
+
+*/
+
+
+/* CLASSE */
+.cabecalho{
+    background-color: #fff;
+}
+.texto{
+    font-size: 40px;
+    color: #fff;
+    background-color: aqua;
+}
